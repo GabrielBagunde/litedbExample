@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "liteDB_example", "liteDB_example\liteDB_example.csproj", "{291260C9-9F6B-4671-AC78-1FBB0B4167FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{291260C9-9F6B-4671-AC78-1FBB0B4167FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{291260C9-9F6B-4671-AC78-1FBB0B4167FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{291260C9-9F6B-4671-AC78-1FBB0B4167FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{291260C9-9F6B-4671-AC78-1FBB0B4167FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EE45EB69-793B-48D5-B111-4F97ED073FF9}
+	EndGlobalSection
+EndGlobal
